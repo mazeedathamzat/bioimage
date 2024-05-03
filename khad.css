@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    height: 96vh;
+    width: 96vw;
+    background-color:hsl(47, 88%, 63%);
+    padding-inline: 20px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    align-items: center;
+     
+
+    
+    
+}
+
+nav{
+    
+    width: 350px;
+    background-color:white ;
+    border-radius: 20px;
+    padding-inline: 10px;
+    padding-top: 10px;
+    padding-bottom:10px ;
+    display: flex;justify-content: center;
+    flex-direction: column;
+    box-shadow: 9px 9px 0px black ;
+}
+
+
+
+    
+    
+    
+    
+
+
+
+
+.struc{
+    margin-top:  20px; 
+}
+.parad{
+    margin-top:  20px; 
+}
+.image{
+    width: 60%;
+}
+.login{
+    border: none;
+    width: 70px;
+    background-color: hsl(47, 88%, 63%);
+    padding-block: 5px;
+}
+.board{
+    margin-top:10px ;
+}
+.small{
+    padding-block: 8px;
+}
+.name{
+    width:100px ;
+    padding-block: 0px;
+}
+.size{
+    display: flex;
+    margin-top: 8px;
+    align-items: center;
+    margin-left: 10px;
+    gap: 9px;
+
+}
